@@ -9,7 +9,8 @@
 
 - [Github](https://github.com/REZA-AZADMEHR)
 
-- [Resome](https://REZA-AZADMEHR.github.io/resome/)
+- [Resome][(https://REZA-AZADMEHR.github.io/resome/)](https://github.com/reza-azadmehr/resume/blob/f0447cc083674648bf90e39788f9d718205387ec/resumeh.htm
+)
 
 - [SOP](https://REZA-AZADMEHR.github.io/sop/)
 
