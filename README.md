@@ -20,7 +20,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/reza-azadmehr/PNU_4031_AR/blob/main/_General/SZ_CV_CheckList_AR_4031.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/_General/KM_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/reza-azadmehr/PNU_4031_AR/blob/e7249604852a567be5e498f455d0a0ec88ef896f/_General/SZ_GeneralSection_CheckList_AR_4031.pdf)
 
 ##  بخش دروس ارشد
 
