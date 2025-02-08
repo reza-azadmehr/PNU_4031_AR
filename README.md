@@ -11,8 +11,7 @@
 
 - [Resome](https://REZA-AZADMEHR.github.io/resome/reza-azadmehr/resume/blob/f0447cc083674648bf90e39788f9d718205387ec/resumeh.htm)
 
-- [SOP](https://github.com/reza-azadmehr/SOP/blob/5d61aa400d7cd2fee26cf711fb84d828ef5b532d/index.html)
-
+- [SOP](https://reza-azadmehr.github.io/SOP/)
 - [Certificate](https://REZA-AZADMEHR.github.io/certificate/)
 
 ------------------
