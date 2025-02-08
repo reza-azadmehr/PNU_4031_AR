@@ -9,7 +9,7 @@
 
 - [Github](https://github.com/REZA-AZADMEHR)
 
-- [Resome](https://REZA-AZADMEHR.github.io/resome/reza-azadmehr/resume/blob/f0447cc083674648bf90e39788f9d718205387ec/resumeh.htm)
+- [Resome](https://reza-azadmehr.github.io/resume/)
 
 - [SOP](https://reza-azadmehr.github.io/SOP/)
 - [Certificate](https://github.com/reza-azadmehr/PNU_4031_AR/blob/2be2ea384baf468d9e91ec8259ce360e152dc8af/_General/CertJS.png)
