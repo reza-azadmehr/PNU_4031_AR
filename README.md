@@ -30,7 +30,7 @@
 ## Winter Semester Courses 1403/2024
 
 ## دروس ارشد
-
+[سمینار]
 <br>
 <br>
 
