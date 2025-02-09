@@ -11,7 +11,7 @@
 
 - [Resome](https://reza-azadmehr.github.io/resume/)
 
-- [SOP](https://reza-azadmehr.github.io/SOP/)
+- [SOP](https://reza-azadmehr.github.io/SOP/index.html#sop)
 - [Certificate](https://github.com/reza-azadmehr/PNU_4031_AR/blob/2be2ea384baf468d9e91ec8259ce360e152dc8af/_General/CertJS.png)
 
 ------------------
