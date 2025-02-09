@@ -12,10 +12,10 @@
 - [Resome](https://reza-azadmehr.github.io/resume/)
 
 - [SOP](https://reza-azadmehr.github.io/SOP/index.html#sop)
-- [Certificate](https://github.com/reza-azadmehr/PNU_4031_AR/blob/2be2ea384baf468d9e91ec8259ce360e152dc8af/_General/CertJS.png)
+- [Certificate](https://github.com/reza-azadmehr/PNU_4031_AR/blob/b7fd68e00aa4aafb072e165c51f9d035918d707b/_General/certif.png)
 
 ------------------
-> ارزیابی ها
+> ارزیابی ها(
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/reza-azadmehr/PNU_4031_AR/blob/main/_General/SZ_CV_CheckList_AR_4031.pdf)
