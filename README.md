@@ -24,7 +24,7 @@
 ##  بخش دروس ارشد
 
 
-- [خلاصه ارزیابی درس_سمینار]()
+- [خلاصه ارزیابی درس_سمینار](https://github.com/reza-azadmehr/PNU_4031_AR/tree/14654add73cf6c180c8a97ced5e34ea7e5671d16/MscSeminar-1)
 
 ------------------
 ## Winter Semester Courses 1403/2024
